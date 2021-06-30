@@ -1,0 +1,90 @@
+.oscuro {
+    background: #000f08;
+    text-align: center;
+    margin: 0%;
+    padding: 1.25rem 0rem;
+    position: fixed;
+    width: 100vw;
+}
+
+.oscuro a {
+    color: white;
+    font-weight: bold;
+    font-family: Releway, Medium;
+}
+
+.inicio-section {
+    background-image: url('../img/bg-header.jpg');
+    background-size: cover;
+    padding: 25.125rem 5.125rem;
+}
+
+.charla-speaker,
+.charla-texto {
+    display: inline-block;
+}
+
+.centrado {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.charla-speaker {
+    width: 25%;
+    vertical-align: middle;
+}
+
+.charla-texto {
+    width: 72.5%;
+    vertical-align: middle;
+    margin-left: 2.5%;
+    white-space: normal;
+}
+
+.sweet-brown {
+    text-align: left;
+    background: #000000;
+    color: #ffffff;
+    padding: 50px;
+    white-space: nowrap;
+}
+
+.sweet-black {
+    text-align: center;
+    background: #1E1A13;
+    color: #ffffff;
+    padding: 50px;
+    white-space: nowrap;
+}
+
+.iconos {
+    color: white;
+    white-space: nowrap;
+}
+
+.section,
+.footer {
+    margin-top: 75px;
+}
+
+.iguanita,
+.caracteristicas {
+    display: inline-block;
+}
+
+.iguanita {
+    width: 30%;
+}
+
+.iguanita img {
+    width: 70%;
+}
+
+footer {
+    padding: 50px;
+    color: white;
+}
+
+footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+}
